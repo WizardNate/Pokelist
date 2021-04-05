@@ -7,3 +7,8 @@ clear
 echo "Pokemon you have caught so far:"
 echo "-------------------"
 cat pokelist.txt
+
+echo "-------------------"
+echo "Press Enter to Exit."
+read
+clear
